@@ -1,12 +1,12 @@
 # CAPSTONE-FOLDER
 
-#DIDENTITY
+# DIDENTITY
 
-#The idea behind this project is decentralized digital identity on Solana.
+# The idea behind this project is decentralized digital identity on Solana.
 
-#This project can produce decentralized digital identity which helps in overcoming the issue of centralized identity . I have created a smart contract which can create and verify identity claims, the identity is created using ZK-proofs. I have used circoms to generate the zk circuits and it uses groth-16 and zk-snarks.
+# This project can produce decentralized digital identity which helps in overcoming the issue of centralized identity . I have created a smart contract which can create and verify identity claims, the identity is created using ZK-proofs. I have used circoms to generate the zk circuits and it uses groth-16 and zk-snarks.
 
-#Anyone can integrate this idea into their project based on their need and here's a step-by-step guide to complete this project, from setting up the environment to deploying and testing the solution.
+# Anyone can integrate this idea into their project based on their need and here's a step-by-step guide to complete this project, from setting up the environment to deploying and testing the solution.
 
 Install Solana CLI, RUST and ANCHOR framework for setting up the solana environment
 
